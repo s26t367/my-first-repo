@@ -1,6 +1,8 @@
-<h1>list of cat breeds</h1>
+git config --global user.name "あきただ" git config --global user.email "s26t367@kagawa-u.ac.jp"
+
+<h1>list of dog breeds</h1>
 <ul>
-  <li>American shorthair</li>
-  <li>Bengal</li>
-  <li>Japanese bobtail</li>
+  <li>Labrador Retriever</li>
+  <li>German Shepherd</li>
+  <li>Bulldog</li>
 </ul>
