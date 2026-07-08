@@ -1,5 +1,3 @@
-git config --global user.name "あきただ" git config --global user.email "s26t367@kagawa-u.ac.jp"
-
 <h1>list of  ramen types</h1>
 <ul>
   <li>Shoyu</li>
