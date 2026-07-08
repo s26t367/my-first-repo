@@ -1,8 +1,8 @@
 git config --global user.name "あきただ" git config --global user.email "s26t367@kagawa-u.ac.jp"
 
-<h1>list of dog breeds</h1>
+<h1>list of  music genres</h1>
 <ul>
-  <li>Labrador Retriever</li>
-  <li>German Shepherd</li>
-  <li>Bulldog</li>
+  <li>Rock</li>
+  <li>Jazz</li>
+  <li>Classical</li>
 </ul>
